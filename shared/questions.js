@@ -71,7 +71,7 @@ const QUIZ_QUESTIONS = [
     subject: 'Comprehension',
     question: 'Why did Leo feel nervous when he approached the cool group?',
     choices: {
-      a: 'He was afraid of birds.',
+      a: 'He was afraid of the birds.',
       b: 'He wanted to belong but sensed something might go wrong.',
       c: 'He forgot his phone at home.',
       d: 'He did not like the group members.'
